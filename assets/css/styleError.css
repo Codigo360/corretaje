@@ -1,0 +1,25 @@
+
+.fondo
+	{
+	background: url(../../assets/img/PaginaError.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #66999;
+	margin-left:auto;
+	margin-right: auto;
+	}
+.body_error
+{
+	text-align: center;
+	margin-top: 15%;
+}	
+.letra
+{
+	font-size: 80%;
+	color: #fff;
+}
+strong
+{
+	font-size: 200px;
+}

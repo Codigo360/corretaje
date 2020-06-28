@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result6" stdDeviation="1.5"/>
+   <feComposite in="SourceGraphic" in2="result6" operator="atop" result="result8"/>
+   <feComposite in="result8" in2="SourceAlpha" operator="atop" result="result9"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.99977 0 0 1 .0072688 -5.873e-5)">
+  <g transform="matrix(.8543 0 0 .81569 5.342 9.2594)" filter="url(#a)">
+   <path d="m10.431 61.792 43.318-1e-3 -0.7939-27.427-21.353-21.292-21.183 21.013 0.0114 27.707z" fill="#204a87" stroke="#d7d7d7" stroke-width=".167"/>
+   <path d="m44.583 12.191 0.1557-3.5023 9.4952 0.0778-0.0778 13.231-9.573-9.8065z" fill="#333" stroke-width="0"/>
+   <path d="m6.2369 31.722 25.455-25.712 25.37 25.712" fill-opacity="0" stroke="#267bec" stroke-linecap="round" stroke-width="8.041"/>
+   <path d="m44.583 12.191-0.0211-3.5686 9.4068-0.0106 0.1873 13.386-9.573-9.8065z" fill="#3465a4" stroke="#797575" stroke-width=".09"/>
+   <path d="m56.858 7.201-1.2336 0.8145-12.059-0.0039-0.9726-0.7295 0.0257-3.6908 14.158 0.0435 0.081 3.5662z" fill="#204a87" stroke-width="0"/>
+   <rect x="23.257" y="37.565" width="17.283" height="19.884" fill="#eeeeec" stroke="#322828" stroke-linecap="round" stroke-width=".102"/>
+   <rect x="24.984" y="39.552" width="13.829" height="15.91" fill="#2e3436" stroke="#322828" stroke-linecap="round" stroke-width=".082"/>
+  </g>
+ </g>
+</svg>
